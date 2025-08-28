@@ -1,4 +1,9 @@
-# Hola, soy Adriana  
+# Hola, soy Adriana 
+
+<img width="1016" height="396" alt="banner_linkedin" src="https://github.com/user-attachments/assets/970be884-c4b6-4599-87d9-c912f0df0720" />
+
+
+
 
 Ingeniera en Sistemas Computacionales con especialidad en **Big Data**.  
 Apasionada por el **desarrollo de aplicaciones** en distintas plataformas: móviles, web y de escritorio.  
