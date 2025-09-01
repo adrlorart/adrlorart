@@ -1,13 +1,13 @@
-# Hola, soy Adriana 
+<!-- # Hola, soy Adriana 
 
 <!-- <img width="1016" height="396" alt="banner_linkedin" src="https://github.com/user-attachments/assets/970be884-c4b6-4599-87d9-c912f0df0720" />  -->
 
+<img width="1584" height="396" alt="Adriana Loredo Arteaga" src="https://github.com/user-attachments/assets/fbbc3ad9-acac-4a65-b16c-5557d23da2cf" />
 
 
-
-Ingeniera en Sistemas Computacionales con especialidad en **Big Data**.  
+<!-- Ingeniera en Sistemas Computacionales con especialidad en **Big Data**.  
 Apasionada por el **desarrollo de aplicaciones** en distintas plataformas: móviles, web y de escritorio.  
-Me gusta aprender nuevas tecnologías y aplicarlas en proyectos prácticos.  
+Me gusta aprender nuevas tecnologías y aplicarlas en proyectos prácticos.  -->
 
 ---
 
